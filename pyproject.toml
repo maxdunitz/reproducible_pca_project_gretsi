@@ -1,0 +1,19 @@
+[project]
+name = "gretsi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "autograd>=1.7.0",
+    "ipykernel>=6.29.5",
+    "keras>=3.9.0",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "pip>=25.0.1",
+    "pymanopt>=2.2.1",
+    "scikit-learn>=1.6.1",
+    "torch>=2.6.0",
+    "tqdm>=4.67.1",
+]
